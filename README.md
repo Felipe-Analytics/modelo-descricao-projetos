@@ -7,51 +7,31 @@
 
 <!-- MODELO PROJETO EM ANDAMENTO -->
 <h1 align="center"> 
-	🚧 {Nome do repositório} - Em contrução 🚧
+	🚧 {Análise da Evolução da Taxa Selic no Brasil} - Em contrução 🚧
 </h1>
 
-<!-- ---------------------------------------------------------------------- -->
-
-<!-- MODELO PROJETO FINALIZADO -->
-<h1 align="center"> 
-	  🚀✅ {Nome do repositório} - Concluído ✅🚀
-</h1>
-
-<!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO MENU DE NAVEGAÇÃO -->
 <p align="center">
- <a href="#-Descrição-do-entregável">Descrição do Entregável</a> •
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="# Objetivo-do-projeto">Sobre</a> •
+ <a href="#-Dashboard">Layout</a> • 
+ <a href="# Fonte-dos-dados">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+
 </p>
 
 <!-- ---------------------------------------------------------------------- -->
 
-<!-- MODELO DE DESCRIÇÃO -->
-## 📄 Descrição do entregável
-
-<!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
-- Widget (Pasta que armazena apenas o widget)
-
-- ExternalPage (Widget em uma página externa)
-
----
-
-<!-- ---------------------------------------------------------------------- -->
-
 <!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
-## 💻 Sobre o projeto
+## 💻 Objetivo do projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
+O projeto de Análise de dados da Taxa Selic  é um projeto criado para o meu desenvolvimento das minhas habilidades técnicas e pessoais, utilizando conhecimentos externos para realizar análises economicas e sociais.
 
-O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
+O objetivo deste projeto é analisar a evolução da Taxa Selic ao longo dos anos no Brasil, observando suas variações e possíveis relações com eventos econômicos importantes, como inflação. O projeto visa apresentar tendências de forma visual e explicar como mudanças na Selic impactam a economia.
+
+O desafio proposto para este projeto foi a criação e elaboração dos dados de uma forma limpa, devido ao fato de ser meu primeiro projeto pessoal para análise de dados
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -59,11 +39,11 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO FUNCIONALIDADES: -->
-## ⚙️ Funcionalidades
+## ⚙️ Fonte dos dados
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
-- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
+- [x] BACEN(Banco Central do Brasil).
+- [x] Kagle
 
 ---
 
@@ -89,25 +69,6 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 
 <!-- ---------------------------------------------------------------------- -->
 
-<!-- MODELO DE COMO EXECUTAR O PROJETO -->
-## 🚀 Como executar o projeto
-
-1 - Baixar o Projeto <br>
-2 - Instalar a pasta node_modules (npm install)<br>
-3 - Rodar o projeto (npm start)
-
-<!-- ---------------------------------------------------------------------- -->
-
-<!-- MODELO DE PRÉ REQUISITOS -->
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
----
-
-<!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
@@ -143,8 +104,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
-Matheus Maia Alvarez</a>
+<a href="https://www.linkedin.com/in/fel1p3bat1sta?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1TOblaU6SFSV10oqBhAmnA%3D%3D-">
+Felipe Batista de Souza</a>
  <br />
  
 [![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
